@@ -1,4 +1,4 @@
-package br.com.catolica.notificacoes;
+package br.com.catolica.notifications;
 
 import br.com.catolica.interfaces.Notificacao;
 

@@ -1,4 +1,4 @@
-package br.com.catolica.fabrica;
+package br.com.catolica.factory;
 
 import br.com.catolica.interfaces.Notificacao;
 

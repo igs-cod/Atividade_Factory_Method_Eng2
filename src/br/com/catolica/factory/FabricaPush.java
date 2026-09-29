@@ -1,7 +1,7 @@
-package br.com.catolica.fabrica;
+package br.com.catolica.factory;
 
 import br.com.catolica.interfaces.Notificacao;
-import br.com.catolica.notificacoes.NotificacaoPush;
+import br.com.catolica.notifications.NotificacaoPush;
 
 public class FabricaPush extends FabricaNotificacao {
     @Override

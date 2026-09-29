@@ -1,7 +1,7 @@
-package br.com.catolica.fabrica;
+package br.com.catolica.factory;
 
 import br.com.catolica.interfaces.Notificacao;
-import br.com.catolica.notificacoes.NotificacaoEmail;
+import br.com.catolica.notifications.NotificacaoEmail;
 
 public class FabricaEmail extends FabricaNotificacao {
     @Override

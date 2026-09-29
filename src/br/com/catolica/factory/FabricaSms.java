@@ -1,7 +1,7 @@
-package br.com.catolica.fabrica;
+package br.com.catolica.factory;
 
 import br.com.catolica.interfaces.Notificacao;
-import br.com.catolica.notificacoes.NotificacaoSms;
+import br.com.catolica.notifications.NotificacaoSms;
 
 public class FabricaSms extends FabricaNotificacao {
     @Override
